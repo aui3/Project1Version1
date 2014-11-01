@@ -1,0 +1,55 @@
+.body {
+
+	border-color: #ff0000;
+	border-style: solid;
+}
+.wrapper {
+	
+	max-width: 100%
+}
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+	font-weight: 300;
+}
+
+hr{
+	border: none;
+	height: 5px;
+	color:#BCBBBB;
+	background-color: #BCBBBB;
+}
+.text-muted {
+color: #BCBBBB;
+}
+.text-thin {
+	font-weight: 100;
+}
+
+.title-feature {
+
+	font-size: 30px;
+	font-weight: bold;
+}
+.title-super{
+	font-size: 60px;
+}
+
+.title-logo {
+
+	margin-top: 20px;
+}
+
+.padded {
+	margin-bottom: 20px;
+	margin-top: 20px;
+
+}
